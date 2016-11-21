@@ -1,1 +1,2 @@
 This is a file for git test.
+Change this file after "git add" but not "commit"
